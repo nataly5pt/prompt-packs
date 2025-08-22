@@ -1,4 +1,3 @@
-# prompt-packs
 # Prompt — Website Modal (150 words)
 
 ## Interpreter (Group B)
