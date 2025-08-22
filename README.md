@@ -1,12 +1,12 @@
-# Prompt — Website Modal (150 words)
+# Prompt — Website Modal 
 
-## Interpreter (Group B)
+## Interpreter 
 - **Discipline:** Mythographer
 - **Credentials:** PhD in Archaeology, University of Athens
 - **Lens:** Cultural semiotics (matriarchal focus)
 - **Method:** Cross-reference archives
 
-## Artifact (Agent A)
+## Artifact 
 - **Name:** Marker Arch Fragment
 - **Material:** Composite stone (volcanic basalt, lunar silicate, fused ash)
 - **Estimated Age:** ~22,000 years
